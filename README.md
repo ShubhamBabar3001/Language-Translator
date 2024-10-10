@@ -55,7 +55,7 @@ pip install langdetect
 1) Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/language-translator.git
+git clone https://github.com/ShubhamBabar3001/language-translator.git
 ```
 ```bash
 cd language-translator
