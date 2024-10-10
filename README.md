@@ -76,7 +76,8 @@ python TranslatorGUI.py
 
 ## Screenshots
 
-![Screenshot 2024-10-10 194626](https://github.com/user-attachments/assets/d35cacc5-23c6-487d-8910-999ad1ce9b21)
+![Screenshot 2024-10-10 194626](https://github.com/user-attachments/assets/c00e9a54-1bec-4f73-ba15-2246b275cc16)
+
 
 ## Contributing
 
